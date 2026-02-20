@@ -23,7 +23,7 @@
 ```bash
 $ cat about.txt
 
-  Name     : Aaron
+  Name     : Aaron Bartolome
   Role     : Software Engineer
   Mission  : Create tools that help people work faster
   Status   : Currently leveling up...
