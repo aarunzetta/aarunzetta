@@ -80,9 +80,9 @@ const aaron = {
 
 <div align="center">
 
-![Aaron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aarunzetta&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff)
+![Aaron's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=aarunzetta&theme=vue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarunzetta&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aarunzetta&theme=github_dark)
 
 </div>
 
