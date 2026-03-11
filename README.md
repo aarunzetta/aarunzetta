@@ -76,7 +76,7 @@ const aaron = {
 
 <div align="center">
 
-![Aaron's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=aarunzetta&theme=vue)
+[![Aaron's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=aarunzetta&theme=vue)](https://github-readme-streak-stats.herokuapp.com/?user=aarunzetta&theme=matrix)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aarunzetta&theme=github_dark)
 
