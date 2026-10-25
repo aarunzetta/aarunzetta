@@ -56,6 +56,7 @@ $ cat about.txt
 
 ![DevOps](https://img.shields.io/badge/DevOps-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Phaser](https://img.shields.io/badge/Phaser-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)
 
 </div>
 
