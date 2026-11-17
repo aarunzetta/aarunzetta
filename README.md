@@ -26,7 +26,7 @@ $ cat about.txt
   Name     : Aaron Bartolome
   Role     : Software Engineer
   Mission  : Create tools that help people work faster
-  Status   : Currently leveling up...
+  Status   : Leveling up...
 ```
 
 ---
